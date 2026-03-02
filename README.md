@@ -2,7 +2,7 @@
 # first
 uv sync
 
-# daily
+# daily (workday)
 uv run python main.py
 ```
 
